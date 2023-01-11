@@ -1,4 +1,4 @@
-![Simplified Blockchain](https://github.com/denismurphy/simplified-blockchain-merkle-tree-zk-snark-zk-rollup-a-playful-approach/blob/main/images/blockchain_vector_images.svg?raw=true)
+![Simplified Blockchain](https://github.com/denismurphy/simplified-blockchain/blob/main/images/blockchain_vector_images.svg?raw=true)
 
 # Simplified Blockchain: A Playful Approach
 
