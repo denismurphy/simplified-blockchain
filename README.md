@@ -1,8 +1,8 @@
-![Simplified Blockchain, Merkle Tree, Zk-SNARK, Zk-Rollup: A Playful Approach](https://github.com/denismurphy/simplified-blockchain-merkle-tree-zk-snark-zk-rollup-a-playful-approach/blob/main/images/blockchain_vector_images.svg?raw=true)
+![Simplified Blockchain](https://github.com/denismurphy/simplified-blockchain-merkle-tree-zk-snark-zk-rollup-a-playful-approach/blob/main/images/blockchain_vector_images.svg?raw=true)
 
-## Simplified Blockchain, Merkle Tree, Zk-SNARK, Zk-Rollup: A Playful Approach
+# Simplified Blockchain: A Playful Approach
 
-This repository contains a playful implementation of a simplified blockchain, Merkle Tree, Zk-SNARK and Zk-Rollup. The main focus of this repository is to provide a simplified and easy to understand codebase for understanding the underlying concepts and principles of these technologies.
+This repository contains a playful implementation of a Simplified Blockchain, Merkle Tree, Zk-SNARK and Zk-Rollup. The main focus of this repository is to provide a simplified and easy to understand codebase for understanding the underlying concepts and principles of these technologies.
 
 ## Getting Started
 
