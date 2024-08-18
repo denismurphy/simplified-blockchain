@@ -37,15 +37,6 @@ Our `Blockchain` struct offers:
 - `new()` function for creating a new blockchain instance
 - `add_transaction` method for adding new transactions
 
-## 👨‍💻 Authors
-
-- **Denis Murphy**
-
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## 🙏 Acknowledgments
-
-- 🎩 This repository is inspired by the work of many great researchers and developers in the blockchain and cryptography communities.
-- 🚨 This is a simplified version of the complex technologies and must be used for educational purposes only.
